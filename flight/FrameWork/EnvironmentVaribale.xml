@@ -1,0 +1,16 @@
+﻿<?xml version = "1.0"  encoding = "UTF-8"?>
+<Environment>
+        <Variable>
+                <Name>UserID</Name>
+                <Value>mercury</Value>
+        </Variable>
+        <Variable>
+                <Name>Password</Name>
+                <Value>mercury</Value>
+        </Variable>
+        <Variable>
+                <Name>flight_APPURL</Name>
+                <Value>C:\Conan\qtp11\installation\samples\flight\app\flight3a.exe</Value>
+        </Variable>
+        <cc>asdf</cc>
+</Environment>
